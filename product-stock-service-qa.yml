@@ -1,3 +1,7 @@
+spring:
+  jpa:
+    database: sql_server
+    show-sql: true
   datasource:
     platform: sqlserver
     url: jdbc:sqlserver://localhost:1433;databaseName=ZSS
