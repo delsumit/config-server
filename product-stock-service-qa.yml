@@ -1,4 +1,3 @@
-spring:
   datasource:
     platform: sqlserver
     url: jdbc:sqlserver://localhost:1433;databaseName=ZSS
